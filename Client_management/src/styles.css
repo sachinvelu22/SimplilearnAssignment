@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+#full{
+    text-align: center;
+}
+
+form{
+    margin-left: 150px;
+    margin-right: 150px;
+    border: thick double;
+    border-radius: 5%;
+    background-color: #e5e5e5;
+    padding: 70px;
+    line-height: 2;
+}
+
+input[type=submit]{
+    padding: 5px;
+    border-radius: 20%;
+    box-sizing: border-box;
+    background-color: #89CFF0;
+}
+
+#inp{
+    width: auto;
+    display: inline;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
